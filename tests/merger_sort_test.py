@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(_file_), '..')))
+
 from hw2_debugging import merge_sort
 
 def testcase_init_sortedArr():

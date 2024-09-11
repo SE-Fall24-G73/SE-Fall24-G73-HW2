@@ -1,4 +1,4 @@
-name: Radon Workflow
+name: Radon-test
 
 on:
   push:
